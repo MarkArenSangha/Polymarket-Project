@@ -1,6 +1,6 @@
 # Polymarket Insider Trading: A Quantitative Investigation
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkArenSangha/Polymarket-Project/blob/main/Polymarket_Insider_Trading.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkArenSangha/Polymarket-Project/blob/main/20260508_Data_Modeling_Final_Project_Mark_Aren_Sangha.ipynb)
 
 Statistical and visual evidence of structured information advantages operating across two markets: decentralised political prediction markets (Polymarket) and U.S. congressional equity trading. All data is synthetic but calibrated to documented empirical patterns.
 
