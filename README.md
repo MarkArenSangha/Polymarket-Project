@@ -2,7 +2,43 @@
 
 A data-driven visual analysis of systematic information advantages in political prediction markets, with particular focus on pre-announcement trading surges correlated with Trump administration policy events.
 
-## Live Dashboard
+---
+
+## 🚀 Open the Colab Notebook
+
+### Method 1 — One-click (recommended)
+
+Click the badge below — it opens the notebook directly in Google Colab with no setup:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarkArenSangha/Polymarket-Project/blob/claude/trading-analysis-graphs-aiht4/Polymarket_Insider_Trading.ipynb)
+
+Or paste this URL into your browser:
+```
+https://colab.research.google.com/github/MarkArenSangha/Polymarket-Project/blob/claude/trading-analysis-graphs-aiht4/Polymarket_Insider_Trading.ipynb
+```
+
+### Method 2 — Download & Upload manually
+
+1. Go to this repo on GitHub → switch to branch `claude/trading-analysis-graphs-aiht4`
+2. Click `Polymarket_Insider_Trading.ipynb`
+3. Click the **⬇ Download raw file** button (top-right of the file view)
+4. Go to [colab.research.google.com](https://colab.research.google.com)
+5. Click **File → Upload notebook** → select the downloaded `.ipynb` file
+6. Click **Runtime → Run all**
+
+### Method 3 — From inside Colab (GitHub tab)
+
+1. Go to [colab.research.google.com](https://colab.research.google.com)
+2. Click **File → Open notebook**
+3. Select the **GitHub** tab
+4. Type `MarkArenSangha/Polymarket-Project` and press Enter
+5. Set branch to `claude/trading-analysis-graphs-aiht4`
+6. Click `Polymarket_Insider_Trading.ipynb`
+7. Click **Runtime → Run all**
+
+---
+
+## 🖥️ Live HTML Dashboard
 
 Open `index.html` in any browser — no build step required.  
 Enable GitHub Pages on this branch to publish it publicly.
